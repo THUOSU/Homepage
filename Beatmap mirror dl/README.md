@@ -69,4 +69,4 @@ Update log:
 [1]:http://bloodcat.com/osu/
 [2]:http://loli.al/
 [3]:http://osu.mengsky.net/
-[4]:http://blog.crucifyml.com/usr/uploads/2014/08/521267629.png
+[4]:./bookmark.png
