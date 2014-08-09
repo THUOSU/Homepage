@@ -1,12 +1,12 @@
 ##	osu!谱面下载镜像(osu! Beatmap Download Mirrors)
 
-拖拽镜像后的![pic][4]到书签栏。
-Drag the pic ![pic][4] of mirror sites to the bookmark bar.
+拖拽镜像后的书签到书签栏。
+Drag the bookmark of mirror sites into the bookmark bar.
 在谱面下载页面单击书签。
 Click the bookmark in the Beatmap download pages.
 <!--more-->
 
-*	[bloodcat][1]: <a href="javascript:(function(b){if(b.host==&quot;osu.ppy.sh&quot;&amp;&amp;b.pathname.match(/\/[bs]\/.+/)){songid=$('.beatmapDownloadButton:last a').attr('href').match(/\d+/);b.href=&quot;http://bloodcat.com/osu/m/&quot;+songid;}})(window.location);">![bloodcat][4]</a> (Korea)
+*	[bloodcat][1]: <a href="javascript:(function(b){if(b.host==&quot;osu.ppy.sh&quot;&amp;&amp;b.pathname.match(/\/[bs]\/.+/)){songid=$('.beatmapDownloadButton:last a').attr('href').match(/\d+/);b.href=&quot;http://bloodcat.com/osu/m/&quot;+songid;}})(window.location);">Bookmark</a> (Korea)
 	*	한국어
 	*	English
 	*	中文
@@ -21,7 +21,7 @@ javascript:
 })(window.location);
 ```
 
-*	[loli.al][2]: <a href="javascript:(function(b){if(b.host==&quot;osu.ppy.sh&quot;&amp;&amp;b.pathname.match(/\/[bs]\/.+/)){songid=$('.beatmapDownloadButton:last a').attr('href').match(/\d+/);b.href=&quot;http://loli.al/s/&quot;+songid;}})(window.location);">![loli.al][4]</a> (China)
+*	[loli.al][2]: <a href="javascript:(function(b){if(b.host==&quot;osu.ppy.sh&quot;&amp;&amp;b.pathname.match(/\/[bs]\/.+/)){songid=$('.beatmapDownloadButton:last a').attr('href').match(/\d+/);b.href=&quot;http://loli.al/s/&quot;+songid;}})(window.location);">Bookmark</a> (China)
 	*	English
 	*	简体中文
 	*	繁體中文
@@ -40,7 +40,7 @@ javascript:
 })(window.location);
 ```
 
-*	[osu.mengsky.net][3]: <a href="javascript:(function(b){if(b.host==&quot;osu.ppy.sh&quot;&amp;&amp;b.pathname.match(/\/[bs]\/.+/)){songid=$('.beatmapDownloadButton:last a').attr('href').match(/\d+/);b.href=&quot;http://osu.mengsky.net/d.php?id=&quot;+songid;}})(window.location);">![osu.mengsky.net][4]</a> (China)
+*	[osu.mengsky.net][3]: <a href="javascript:(function(b){if(b.host==&quot;osu.ppy.sh&quot;&amp;&amp;b.pathname.match(/\/[bs]\/.+/)){songid=$('.beatmapDownloadButton:last a').attr('href').match(/\d+/);b.href=&quot;http://osu.mengsky.net/d.php?id=&quot;+songid;}})(window.location);">Bookmark</a> (China)
 	*	English
 
 ```javascript
@@ -69,4 +69,3 @@ Update log:
 [1]:http://bloodcat.com/osu/
 [2]:http://loli.al/
 [3]:http://osu.mengsky.net/
-[4]:./bookmark.png
