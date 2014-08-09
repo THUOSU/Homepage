@@ -1,4 +1,5 @@
-##	osu!谱面下载镜像(osu! Beatmap Download Mirrors)
+osu!谱面下载镜像(osu! Beatmap Download Mirrors)
+------
 
 拖拽镜像后的书签到书签栏。
 Drag the bookmark of mirror sites into the bookmark bar.
